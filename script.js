@@ -1,5 +1,4 @@
-
-    function openImage(imgSrc) {
+function openImage(imgSrc) {
         window.open(imgSrc, '_blank');
     }
 
